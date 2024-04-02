@@ -1,0 +1,15 @@
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.exe.config
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.exe
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.pdb
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\bin\Debug\StudentAttendance.xml
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\bin\Debug\System.Data.SqlClient.dll
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\bin\Debug\System.Data.SqlClient.xml
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.vbproj.AssemblyReference.cache
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.Form1.resources
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.Resources.resources
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.vbproj.GenerateResource.cache
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.vbproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.vbproj.CopyComplete
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.exe
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.xml
+C:\Users\dell\Desktop\Ashmit-no-touch\StudentAttendance\StudentAttendance\obj\Debug\StudentAttendance.pdb
